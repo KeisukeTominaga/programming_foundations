@@ -14,7 +14,7 @@ end
 
 
 # ```
- triangle(9)
+ triangle(5)
  
 #     *
 #    **
@@ -24,7 +24,7 @@ end
 # ```
 
 # ```
-# triangle(9)
+ triangle(9)
 
 #         *
 #        **
